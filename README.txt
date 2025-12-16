@@ -66,12 +66,11 @@ Known Issues
 Support
 -------
 For support or to report issues, please contact:
-[Your contact information or support channel]
+[mosalah.desouki@gmail.com]
 
 Credits
 -------
-Developed by: [Your Name/Organization]
-Logo design: [Credit for the fish logo]
+Developed by: [Mohamed salah eldin
 
 License
 -------
@@ -83,4 +82,5 @@ v1.0 (2024)
 - Initial release
 - Modern dark theme interface
 - Comprehensive email security analysis
+
 - CSV export functionality 
